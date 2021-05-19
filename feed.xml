@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+            <generation-date>2021-04-06T07:30:38.958Z</generation-date>
+
+            <offer internal-id="8910">
+                <type>продажа</type>
+                <property-type>жилая</property-type>
+                <category>flat</category>
+                <creation-date>2021-04-05T11:37:47.432Z</creation-date>
+                <location>
+                    <country>Россия</country>
+                    <region>Краснодарский край</region>
+                    <district>муниципальное образование Краснодар</district>
+                    <locality-name>Краснодар</locality-name>
+                    <latitude>45.063718</latitude>
+                    <longitude>39.011587</longitude>
+                    <address>улица им. Котлярова Н.С., 1</address>
+                </location>
+                <sales-agent>
+                    <name>Наталья</name>
+                    <phone>+79385441385</phone>
+                    <email>n.s.pankratova@geo-centr.com</email>
+                    <category>агентство</category>
+                </sales-agent>
+                <deal-status>прямая продажа</deal-status>
+                <price>
+                    <value>3100000</value>
+                    <currency>RUB</currency>
+                </price>
+                <area>
+                    <value>40</value>
+                    <unit>кв. м</unit>
+                </area>
+                <living-space>
+                    <value>19.5</value>
+                    <unit>кв. м</unit>
+                </living-space>
+                <kitchen-space>
+                    <value>9.5</value>
+                    <unit>кв. м</unit>
+                </kitchen-space>
+                <image>https://storage.geometr.realty24.cetacs.com/realty24/files/LNwGsjH-zNejl7s.jpg</image>
+                <image>https://storage.geometr.realty24.cetacs.com/realty24/files/uiaTLBEbDGtacGO.jpg</image>
+                <image>https://storage.geometr.realty24.cetacs.com/realty24/files/Y5rp6OuhefY_bO-.jpg</image>
+                <image>https://storage.geometr.realty24.cetacs.com/realty24/files/sieKBd2Io7HAyR6.jpg</image>
+                <image>https://storage.geometr.realty24.cetacs.com/realty24/files/6qWoiiw4JoklOVa.jpg</image>
+                <renovation>косметический</renovation>
+                <description>Продаю 1 комнатную квартиру на первом этаже 16 этажного блочного дома. Ремонт от застройщика. Квартира бабочка, окна на две стороны. Большая прихожая.Частично с мебелью. Полностью готова для проживания. Развитая инфраструктура. Супермаркеты, рынок, сельхоз ярмарка, школы, детские сады, поликлиники, трамвай и маршрутки во все концы города.</description>
+                <rooms>1</rooms>
+                <floor>1</floor>
+                <bathroom-unit>совмещенный</bathroom-unit>
+                <room-furniture>1</room-furniture>
+                <floors-total>16</floors-total>
+                <building-type>блочный</building-type>
+                <lift>1</lift>
+                <electricity-supply>1</electricity-supply>
+                <water-supply>1</water-supply>
+                <gas-supply>1</gas-supply>
+                <sewerage-supply>1</sewerage-supply>
+                <heating-supply>1</heating-supply>
+            </offer>
+
+        <offer internal-id="8909">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>flat</category>
+            <creation-date>2021-04-05T11:32:02.577Z</creation-date>
+            <location>
+                <country>Россия</country>
+                <region>Краснодарский край</region>
+                <district>муниципальное образование Краснодар</district>
+                <locality-name>Краснодар</locality-name>
+                <latitude>45.070995</latitude>
+                <longitude>38.980631</longitude>
+                <address>Стахановская улица, 28</address>
+            </location>
+            <sales-agent>
+                <name>Анастасия</name>
+                <phone>+79628648323</phone>
+                <email>a.a.bolotskih@geo-centr.com</email>
+                <category>агентство</category>
+            </sales-agent>
+            <deal-status>прямая продажа</deal-status>
+            <price>
+                <value>3000000</value>
+                <currency>RUB</currency>
+            </price>
+            <area>
+                <value>48.2</value>
+                <unit>кв. м</unit>
+            </area>
+            <living-space>
+                <value>28</value>
+                <unit>кв. м</unit>
+            </living-space>
+            <kitchen-space>
+                <value>6.6</value>
+                <unit>кв. м</unit>
+            </kitchen-space>
+            <image>https://storage.geometr.realty24.cetacs.com/realty24/files/lYjFtZiTURsVNES.jpg</image>
+            <image>https://storage.geometr.realty24.cetacs.com/realty24/files/eWV2TuscvTLLi9X.jpg</image>
+            <image>https://storage.geometr.realty24.cetacs.com/realty24/files/Rp6JaqgTsYQfcI8.jpg</image>
+            <image>https://storage.geometr.realty24.cetacs.com/realty24/files/3PzZ-oTaxtnGMVk.jpg</image>
+            <image>https://storage.geometr.realty24.cetacs.com/realty24/files/zb9kUPSvnGLwKAE.jpg</image>
+            <description>Продам 2-ую квартиру в отличном районе г. Краснодар! Квартира на две стороны 48,2 кв.м, есть балкон! В шаговой доступности детский сад №164, гимназия № 33, через дорогу гипермаркет Ашан, гипермаркет Касторама и тд...
+Квартира требует ремонта зато сможете воплотить свои идеи, цена соответствующая! Звоните!!!</description>
+            <rooms>2</rooms>
+            <floor>2</floor>
+            <bathroom-unit>совмещенный</bathroom-unit>
+            <floors-total>5</floors-total>
+            <building-type>кирпичный</building-type>
+            <electricity-supply>1</electricity-supply>
+            <water-supply>1</water-supply>
+            <gas-supply>1</gas-supply>
+            <sewerage-supply>1</sewerage-supply>
+            <heating-supply>1</heating-supply>
+        </offer>
+    <offer internal-id="8908">
+        <type>продажа</type>
+        <property-type>жилая</property-type>
+        <category>flat</category>
+        <creation-date>2021-04-05T10:38:38.863Z</creation-date>
+        <location>
+            <country>Россия</country>
+            <region>Краснодарский край</region>
+            <district>муниципальное образование Краснодар</district>
+            <locality-name>Краснодар</locality-name>
+            <latitude>45.092964</latitude>
+            <longitude>39.032167</longitude>
+            <address>Командорская улица, 9к2</address>
+        </location>
+        <sales-agent>
+            <name>Александр</name>
+            <phone>+79385042997</phone>
+            <email>a.a.maruhno@geo-centr.com</email>
+            <category>агентство</category>
+        </sales-agent>
+        <deal-status>прямая продажа</deal-status>
+        <price>
+            <value>2150000</value>
+            <currency>RUB</currency>
+        </price>
+        <area>
+            <value>26</value>
+            <unit>кв. м</unit>
+        </area>
+        <living-space>
+            <value>15</value>
+            <unit>кв. м</unit>
+        </living-space>
+        <kitchen-space>
+            <value>3</value>
+            <unit>кв. м</unit>
+        </kitchen-space>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/J5imqo0X9wBVQpP.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/CyvebIuXexl_8O7.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/O8Ppv-EmnaxW89j.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/0NNy4Q3rozyQLKF.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/iOixSmxjekZM0C7.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/pBwX3CeXkKi5Ztl.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/nYQ5r02Ft4FV103.jpg</image>
+        <renovation>евроремонт</renovation>
+        <description>Продаю квартиру студию с новым качественным ремонтом. Дом комфорт класса. в подъездах выполнен качественный красивый ремонт. вокруг есть все необходимое: медицинский центр, магазины, зубной, аптеки.</description>
+        <studio>1</studio>
+        <floor>3</floor>
+        <balcony>балкон</balcony>
+        <bathroom-unit>совмещенный</bathroom-unit>
+        <floors-total>18</floors-total>
+        <building-type>кирпично-монолитный</building-type>
+        <built-year>2020</built-year>
+        <ceiling-height>280</ceiling-height>
+        <lift>1</lift>
+        <electricity-supply>1</electricity-supply>
+        <water-supply>1</water-supply>
+        <gas-supply>1</gas-supply>
+        <sewerage-supply>1</sewerage-supply>
+        <heating-supply>1</heating-supply>
+    </offer>
+</realty-feed>
