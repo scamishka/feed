@@ -176,4 +176,100 @@
         <sewerage-supply>1</sewerage-supply>
         <heating-supply>1</heating-supply>
     </offer>
+    <offer internal-id="8736">
+        <type>продажа</type>
+        <property-type>жилая</property-type>
+        <category>дуплекс</category>
+        <creation-date>2021-03-21T15:24:24.507Z</creation-date>
+        <location>
+            <country>Россия</country>
+            <region>Краснодарский край</region><district>муниципальное образование Краснодар</district>
+            <locality-name>ДНТ Прибрежный, станица Старокорсунская</locality-name><latitude>45.035044</latitude>
+            <longitude>39.267625</longitude><address>6-я Викторианская улица, 39</address>
+        </location>
+        <sales-agent>
+            <name>Анастасия</name>
+            <phone>+79628648323</phone>
+            <email>a.a.bolotskih@geo-centr.com</email>
+            <category>агентство</category>
+        </sales-agent>
+        <deal-status>прямая продажа</deal-status>
+        <price>
+            <value>6500000</value>
+            <currency>RUB</currency>
+        </price>
+        <area>
+            <value>180</value>
+            <unit>кв. м</unit>
+        </area>
+        <living-space>
+            <value>150</value>
+            <unit>кв. м</unit>
+        </living-space>
+        <kitchen-space>
+            <value>15</value>
+            <unit>кв. м</unit>
+        </kitchen-space>
+        <lot-area>
+            <value>3</value>
+            <unit>сотка</unit>
+        </lot-area>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/5VYgap3XYXWQna0.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/mG4EX2OWENf9f8m.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/6--eV83bV9loSBB.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/owFXDA2B_PWr9HZ.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/iLopJiz4F9n-wKS.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/rmYRpZAsruJPCuW.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/AElbq_rkH53vfCO.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/7OxIQfApXlbbg8Q.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/30pBbVWocy6wqmU.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/9xaSMqTBfV4MXmP.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/ZcE3WXrtfUr6lYo.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/EipRyuIB3xtuFzd.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/PanJINADexChtuN.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/Z-So-Zo3280XUhb.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/PDBElTwOqD2MhYi.jpg</image>
+        <image>https://storage.geometr.realty24.cetacs.com/realty24/files/vLfhHJ5VNw0KyMf.jpg</image>
+        <description>Продам дом дуплекс! 180 кв м на участке 3 сот (по факту дом более 200 кв + эркер). Дом продается целиком, обе половины дома полностью автономны! Установлены 2 счетчика, скважина 33 метра, глубинный насос, двойная фильтрация. Газ по меже есть. В доме выполнена качественная пред чистовая отделка! Все вопросы по телефону. Звоните!</description>
+        <open-plan>1</open-plan>
+        <rooms>1</rooms>
+        <floors-total>2</floors-total>
+        <electricity-supply>1</electricity-supply>
+        <water-supply>1</water-supply>
+        <gas-supply>1</gas-supply>
+        <sewerage-supply>1</sewerage-supply><heating-supply>1</heating-supply>
+    </offer>
+    <offer internal-id="8735">
+        <type>продажа</type>
+        <property-type>жилая</property-type>
+        <category>house</category>
+        <creation-date>2021-03-21T14:42:12.988Z</creation-date>
+        <location>
+            <country>Россия</country>
+            <region>Краснодарский край</region>
+            <district>муниципальное образование Краснодар</district>
+            <locality-name>ДНТ Прибрежный, станица Старокорсунская</locality-name>
+            <latitude>45.03519</latitude>
+            <longitude>39.267508</longitude>
+            <address>5-я Викторианская улица, 40</address>
+        </location>
+        <sales-agent><name>Анастасия</name><phone>+79628648323</phone><email>a.a.bolotskih@geo-centr.com</email><category>агентство</category></sales-agent><deal-status>прямая продажа</deal-status><price><value>5000000</value><currency>RUB</currency></price><area><value>90</value><unit>кв. м</unit></area><living-space><value>65</value><unit>кв. м</unit></living-space><kitchen-space><value>10</value><unit>кв. м</unit></kitchen-space><lot-area><value>3</value><unit>сотка</unit></lot-area>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/_3qOM78-rYTHWBn.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/jPwvMlYedlH5ZNb.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/7JA_FK6s6H9gWla.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/5REZu7lSFlwuhBv.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/tRqj1UXJvAjtFwZ.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/Eu1rd0wadu9bCKJ.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/bRxoPwoGzskUJNf.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/fKsVA6nfn7JlYmc.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/FEbfnJzIqzpaxQc.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/ptG9OhwlI5_LYkT.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/xNHz6wJp5lgHwCc.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/zburN-qz5vGIWeu.jpg</image>
+    <image>https://storage.geometr.realty24.cetacs.com/realty24/files/OHrei9HlTMz0W0o.jpg</image>
+    <description>Продам дом одноэтажный 10 на 10, общая 90кв по документам, по факту более 100 кв+эркер. Земля 3 сотки, забор, есть скважина 33 метра, глубинный насос, двойная фильтрация! В доме санузел, коридор, кухня и даже фартук на кухне - выполнены кафелем. Стены выровнены, утеплитель уложен. Дом территориально находится г. Краснодар ст. Старокорсунская Прибрежный район ул. 5-я Викторианская. Прописка город Краснодар. </description><rooms>3</rooms><floors-total>1</floors-total><building-type>кирпичный</building-type><electricity-supply>1</electricity-supply><water-supply>1</water-supply><gas-supply>1</gas-supply><sewerage-supply>1</sewerage-supply><heating-supply>1</heating-supply></offer>
+    <offer internal-id="8734"><type>продажа</type><category>commercial</category>
+        <commercial-type>business</commercial-type><creation-date>2021-03-21T14:18:23.675Z</creation-date><location><country>Россия</country><region>Краснодарский край</region><district>муниципальное образование Краснодар</district><locality-name>Краснодар</locality-name><latitude>45.070918</latitude><longitude>39.010949</longitude><address>улица им. Котлярова Н.С., 19</address></location><sales-agent><name>Анастасия</name><phone>+79628648323</phone><email>a.a.bolotskih@geo-centr.com</email><category>агентство</category></sales-agent><price><value>1200000</value><currency>RUB</currency></price><area><value>34</value><unit>кв. м</unit></area><image>https://storage.geometr.realty24.cetacs.com/realty24/files/957i8zo_JNTkOu3.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/bICOyiW3jWrtsR9.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/7ptEp5-nhwaO6UO.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/pVFVe3kyUjSBJWQ.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/iw9NXe4lAMrjFn7.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/oNvDcYumUun090i.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/U0zP-3GNXMrGR00.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/k_9A_VJfBkoCcLP.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/ta6lkcXtPqEg2hG.jpg</image>
+        <description>Продается нежилое помещение (коммерция) в цоколе, НО цоколь высокий! 12 кв и 18 кв + 4кв предбанник. Все коммуникации подведены! Продается как готовый бизнес, оба помещения арендуют  (12000+коммунальные услуги). Звоните!</description><electricity-supply>1</electricity-supply><water-supply>1</water-supply><gas-supply>1</gas-supply><sewerage-supply>1</sewerage-supply><heating-supply>1</heating-supply></offer>
+    <offer internal-id="8733"><type>продажа</type><property-type>жилая</property-type>
+        <category>flat</category><creation-date>2021-03-21T14:02:07.622Z</creation-date><location><country>Россия</country><region>Краснодарский край</region><district>муниципальное образование Краснодар</district><locality-name>Краснодар</locality-name><latitude>45.074069</latitude><longitude>38.980281</longitude><address>проезд Репина, 22</address></location><sales-agent><name>Анастасия</name><phone>+79628648323</phone><email>a.a.bolotskih@geo-centr.com</email><category>агентство</category></sales-agent><deal-status>прямая продажа</deal-status><price><value>4500000</value><currency>RUB</currency></price><area><value>58</value><unit>кв. м</unit></area><living-space><value>39</value><unit>кв. м</unit></living-space><kitchen-space><value>9</value><unit>кв. м</unit></kitchen-space><image>https://storage.geometr.realty24.cetacs.com/realty24/files/4diyy6_8uoFPaVR.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/Yzp8IFdwik9oeMO.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/1v3TUWofrjsO3X_.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/A_WJ625Ht_V7_YD.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/aRDeYhSvXt5UYZi.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/pzR_FR-_RhB2mkh.jpg</image><image>https://storage.geometr.realty24.cetacs.com/realty24/files/J0pba6AHGiMxNvP.jpg</image>
+        <description>Продаю 2-ую квартиру в отличном районе! Квартира 58 кв.м на 9 этаже. Новый ремонт, встроенная кухня, гардеробная, техника, мебель, балкон застекленный! Санузел раздельный - кафель. Инфраструктура полностью развита, все находится в шаговой доступности: остановки, сады, школы, фитнес клуб, любые магазины и тд... Квартира в собственности более 3-х лет, рассматриваю все виды расчетов. Звоните!!!</description><rooms>2</rooms><floor>9</floor><balcony>балкон</balcony><floors-total>16</floors-total><building-type>блочный</building-type><electricity-supply>1</electricity-supply><water-supply>1</water-supply><gas-supply>1</gas-supply><sewerage-supply>1</sewerage-supply><heating-supply>1</heating-supply></offer>
 </realty-feed>
